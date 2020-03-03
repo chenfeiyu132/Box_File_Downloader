@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "ajo02a1iezv8zukxgo18xf4uvcb9buuf",
+    "clientSecret": "yZPAmn05gBrbBxdf3SP9JTmMGVV0moWs",
+    "appAuth": {
+      "publicKeyID": "lcfv2g27",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIsNHPO8Q2UIECAggA\nMBQGCCqGSIb3DQMHBAgY/i4rOQxIHwSCBMjoCvu1GIlVfg+ztIkZ/+qc54huDXFP\nnQEoPdxTUYxol1B/9QP+kJdqwOeNpnITjPIkrcDqmpADOmaQcuaM4cPnIYPckgzB\nuOsXJMGYbZjhEbi/qi/X/EOs5hTPqzEiTfmrrNXkn6GO16n6XLRr0X2Ena1THmAB\nFa1dmP3BXAwPDkprdYnAG059Rn5RYw20nDQ+awmqln5/lqzvE5hoqN10xlXP0CP4\nIkuRQXeZWX/sgP+gYwmcxAjNrKT8c6AS+g237UkYkAVIz65xAjqjaTzqS4fqMRZ7\nSD21Tc84pfk/9pwH016jZTOlRY4hQuzkWLYXHOxulruQeO55IMtXu6af/gZgOqar\nPtrI2Lc/iTfvn5xAdQTVZxTovpp6o+7no65geOWSUwSK8h4nh3dgpeDRaX5Xm/Ki\nzguMhrvVrqRaWN2dX4Qf21MIXD7ZlKcHD4orWvTj8MICyeRsWhdosV9IcHAayiJL\nBbFKXgxaGGY8w1CxxLCzBgLCQV1wgMK/aNH8YwGOtXz7R6D5f8ZSXbVkCSno3tHO\nRDI+iwz+EPnWHpZW6Ozd2QAkjLhCP0sSy9j5EKHjKBcOBEoyD1QoXshcjuA1BhWK\nbLS8Kbn4lQSmanRwXbol1wnoB8o2nJmB2Plf85k0CPaoaUEw6ICEKxJZwhpGiyFV\n8qIWmwwOxr55tZW1MtZw/WpRHm3CZ+UmbWAvlh346SPyr4Ex+QZu59qaw928cltU\nF+PG+KJvMtv1Boca3MxgWGOOFxpwD2CjlWcHKC8X6/z64eaNdvVGbFYW77fpVGcZ\nOa1pnnTi9mVk749tnbDVn7MmTgkNz2OZs4G0XhwLmBk0ou/LVkEJ0GzAMSZCvAgy\n41W2LDSo9dTlR2KfJXtyIr5VvuL7qXMs81fNNn0kxI69PdzKycE9aLNHyCELW2sG\nUnZ30aOXobmshHd8wEsGDiwajVtuaJh1XPZxA6hpvytmzpqIoyo62a219v4v/Ely\nVqRRRJDEc9DNx0Es6QXSHLCNg0rFGf6UM7msNWRT2ULFjQxOOBC7Xcevnm9MEXxP\nTOk7X2ljkMwhX8SJm2TcbqGOCCzXvnmUHhdka+izU20RP//BDEV36fmOuJJ938gF\n6V2vr708jfwXug9CkoxbdxgBm91IHdGqiKR6VIIY8ydivuogWtY/Fzt388UOi6rc\n0tCCYIxZVmwmSP1biNl+KmtWgttb5uVod1CCSpgbI5hYBRnATuRYc5lFJN8e1rSj\nVwBgtCp1xZaHibt+VcmTxT0qpuPGwP8bNHFa1mSqNEeR2kM0POHJ9+mwgzooRAKs\nqWSOq1JM2lTkHG9gpUghbh+PR5riWYbBBed6nzVKJNZUUb/w7xqe80J57vTJUZiL\nEaeAg6pypBzuW1zo7IIwW6sPX6ZBLjuo2ChqKPaE/0GKoHMNrSPc88tJTdlPb4t9\nbtYUNGLqBtWPGrIMPcGNtvhjGVfO2rhYz3K42ldz24W/vd2TM8cVadiQAHspkIAJ\nhiqomFUFp1zI5+Vuy3RItDnI/8tHakJhz7WGoUAHoHXhEXIHZonIoqz1mxQY+/4S\nftxz9PfmhiHUIE+CYfrV/sXZb4SMsICZKSHvvKghv4uQ690UdWNGJEapJMGxwcKP\n3Lk=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "d085e6ee93d0302cbc77780006cd62ba"
+    }
+  },
+  "enterpriseID": "83165"
+}
